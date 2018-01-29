@@ -5,16 +5,16 @@
     "1.7f4430bf021be5382919.js",
     "2.654687f97eeab1189484.js",
     "vendors.5f7fd5d64db532c7f134.js",
-    "app.facb9e95687979e55069.js",
-    "manifest.df6c5dca80e73970df77.js",
-    "app.facb9e95687979e55069.css",
+    "app.f443111a7ea93925765e.js",
+    "manifest.5d69ff1a249835ac21b4.js",
+    "app.f443111a7ea93925765e.css",
     "favicon.ico",
     "__non-ssr-page__.html"
   ],
   "initial": [
-    "manifest.df6c5dca80e73970df77.js",
+    "manifest.5d69ff1a249835ac21b4.js",
     "vendors.5f7fd5d64db532c7f134.js",
-    "app.facb9e95687979e55069.js"
+    "app.f443111a7ea93925765e.js"
   ],
   "async": [
     "0.87186d18b3b5e7a43ca0.js",
