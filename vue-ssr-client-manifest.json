@@ -1,24 +1,24 @@
 {
   "publicPath": "/",
   "all": [
-    "0.6f6d36e19d51ed47e5d9.js",
-    "1.f0285f0cd195d313c5db.js",
+    "0.bd2d50141c988ad4b652.js",
+    "1.f1ca14039a985c3a65cb.js",
     "2.9f365c21cc68c36ffdd7.js",
-    "vendors.137d386eee5cde3d7500.js",
-    "app.69f47bb8530e2f4966cd.js",
-    "manifest.42ccf31d4f05d9d39881.js",
-    "app.69f47bb8530e2f4966cd.css",
+    "vendors.f65e931ebe49f74901c1.js",
+    "app.d45a8d208beea3c78b3c.js",
+    "manifest.72f93c04f85110f51041.js",
+    "app.d45a8d208beea3c78b3c.css",
     "favicon.ico",
     "__non-ssr-page__.html"
   ],
   "initial": [
-    "manifest.42ccf31d4f05d9d39881.js",
-    "vendors.137d386eee5cde3d7500.js",
-    "app.69f47bb8530e2f4966cd.js"
+    "manifest.72f93c04f85110f51041.js",
+    "vendors.f65e931ebe49f74901c1.js",
+    "app.d45a8d208beea3c78b3c.js"
   ],
   "async": [
-    "0.6f6d36e19d51ed47e5d9.js",
-    "1.f0285f0cd195d313c5db.js",
+    "0.bd2d50141c988ad4b652.js",
+    "1.f1ca14039a985c3a65cb.js",
     "2.9f365c21cc68c36ffdd7.js"
   ],
   "modules": {
@@ -480,7 +480,7 @@
     "dba31ace": [
       3
     ],
-    "2c5b6c78": [
+    "42680b9c": [
       3
     ],
     "5d9043c0": [
@@ -1167,38 +1167,38 @@
       4,
       6
     ],
-    "ba3ab5dc": [
+    "ec02bac4": [
       4,
       6
     ],
-    "448df6d7": [
+    "483027ba": [
       4,
       6
     ],
-    "674b6a03": [
+    "7ae75677": [
       4,
       6
     ],
-    "09eb5e44": [
+    "66273d92": [
       4,
       6
     ],
-    "0ae2b3c4": [
+    "e7cfaa60": [
       1
     ],
-    "5ccbfd49": [
+    "33043c15": [
       1
     ],
-    "049b438c": [
+    "3fa7eb98": [
       0
     ],
-    "398d8311": [
+    "290d72dd": [
       0
     ],
-    "ddaba07c": [
+    "0df6ca4e": [
       0
     ],
-    "32d58187": [
+    "5fe013d3": [
       0
     ],
     "49c0cd88": [
